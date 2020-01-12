@@ -188,3 +188,5 @@ Use Employee.js as a guide
     add team members or be done
   Should then make an html file in an output folder
     Card for each member
+
+  ### Week 9 activity 40
