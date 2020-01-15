@@ -1,5 +1,4 @@
-function mainHTML(manager, engineers, interns) {
-    return `
+
     <!DOCTYPE html>
 <html lang="en">
 
@@ -39,23 +38,23 @@ function mainHTML(manager, engineers, interns) {
             <div class="manager row justify-content-center">
                 <div class="card" style="width: 18rem;">
                     <div class="card-body text-white bg-info mb-3">
-                        <h5 class="card-title">${manager.name}</h5>
+                        <h5 class="card-title">a</h5>
                         <h6 class="card-title"><i class="fas fa-mug-hot"></i> Manager</h6>  
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">ID: ${manager.id}</li>
-                        <li class="list-group-item">Email: ${manager.email}</li>
-                        <li class="list-group-item">Office Number: ${manager.officeNumber}</li>
+                        <li class="list-group-item">ID: b</li>
+                        <li class="list-group-item">Email: c</li>
+                        <li class="list-group-item">Office Number: d</li>
                     </ul>
                 </div>
             </div>
 <!--Append Engineer cards here-->
             <div class="engineer row justify-content-center">
-                ${engineers}   
+                undefined   
             </div>
 <!--Append Intern cards here-->
             <div class="intern row justify-content-center">
-                ${interns}
+                undefined
             </div>
         </main>
     </div>
@@ -67,8 +66,15 @@ function mainHTML(manager, engineers, interns) {
 </body>
 
 </html>
-`
 
-}
-
-module.exports = mainHTML;
+    <div class="card" style="width: 18rem;">
+    <div class="card-body text-white bg-warning mb-3">
+        <h5 class="card-title">e</h5>
+        <h6 class="card-title"><i class="fas fa-glasses"></i> Engineer</h6>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">ID: f</li>
+        <li class="list-group-item">Email: g</li>
+        <li class="list-group-item">GitHub: h</li>
+    </ul>
+</div>
