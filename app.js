@@ -1,14 +1,10 @@
 const Template = require("./lib/template");
 
 
-// Call to start program - starts by asking questions about manager
+// Call to start program
 const template = new Template();
 
-// Start making the template
+// Call the function to fill in the template
+// Starts by asking questions about manager
 template.managerQs();
 
-// Testing if questions work;
-
-// template.engineerQs();
-// template.internQs();
-// template.addEmployee();
