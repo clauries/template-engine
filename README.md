@@ -3,6 +3,7 @@ A node program providing supervisors with a way to keep accurate team profiles.
 
 ![Issues](https://img.shields.io/github/issues/clauries/template-engine) ![Forks](https://img.shields.io/github/forks/clauries/template-engine) ![Stars](https://img.shields.io/github/stars/clauries/template-engine) ![License](https://img.shields.io/github/license/clauries/template-engine) ![Twitter](https://img.shields.io/twitter/url?style=social)
 
+<img src="./assets/example-team.png" alt="Example of a filled in template">
 
 ## Install & Use
 1. Fork and then clone the repo to your computer.
