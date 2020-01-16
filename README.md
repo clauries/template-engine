@@ -1,6 +1,9 @@
 # Team Template Engine
 A node program providing supervisors with a way to keep accurate team profiles.
 
+![Issues](https://img.shields.io/github/issues/clauries/template-engine) ![Forks](https://img.shields.io/github/forks/clauries/template-engine) ![Stars](https://img.shields.io/github/stars/clauries/template-engine) ![License](https://img.shields.io/github/license/clauries/template-engine) [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fclauries%2Ftemplate-engine)
+
+
 ## Install & Use
 1. Fork and then clone the repo to your computer.
 2. In your terminal, navigate to the repo and run "npm install".
