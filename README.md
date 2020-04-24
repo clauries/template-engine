@@ -60,7 +60,7 @@ Along the same vein and perhaps making the team info more accessible, the progra
 
 
 ## Credits
-* I do not own the names of characters used in the examples. They were chosen to add a bit of fun for those who come in contact with this repo. 
+I do not own the names of characters used in the examples. They were chosen to add a bit of fun for those who come in contact with this repo. 
 
 
 ## License
