@@ -59,6 +59,10 @@ Currently the program writes the results to document index.html. The next time t
 Along the same vein and perhaps making the team info more accessible, the program could output a pdf file. PDF files are more widely used and could be easily emailed, printed and shared.
 
 
+## Credits
+* I do not own the names of characters used in the examples. They were chosen to add a bit of fun for those who come in contact with this repo. 
+
+
 ## License
 **MIT License**
 
